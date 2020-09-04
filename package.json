@@ -28,7 +28,7 @@
     "mapbox": "^1.0.0-beta10",
     "mapbox-geocoding": "^0.1.5",
     "moment": "^2.20.1",
-    "mongodb": "^2.2.28",
+    "mongodb": "^3.6.1",
     "nested-pop": "^0.1.4",
     "node-geocoder": "^3.22.0",
     "node-moment": "^2.5.1",
